@@ -1,0 +1,13 @@
+KBS CLASSIC|http://serpent0.duckdns.org:8088/kbsfm.pls
+GUGAK|https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
+MBC FM4U|http://serpent0.duckdns.org:8088/mbcfm.pls
+MBC|http://serpent0.duckdns.org:8088/mbcsfm.pls
+SBS POWER FM|http://serpent0.duckdns.org:8088/sbsfm.pls
+SBS LOVE FM|http://serpent0.duckdns.org:8088/sbs2fm.pls
+KBS COOL FM|http://serpent0.duckdns.org:8088/kbs2fm.pls
+KBS HAPPY FM|http://serpent0.duckdns.org:8088/kbs2radio.pls
+KBS|http://serpent0.duckdns.org:8088/kbs1radio.pls
+SWISS CLASSIC|http://stream.srg-ssr.ch/m/rsc_it/mp3_128
+SWISS POP|http://stream.srg-ssr.ch/m/rsp/mp3_128
+SWISS JAZZ|http://stream.srg-ssr.ch/m/rsj/mp3_128
+VINYL HD|https://icecast.walmradio.com:8443/classic
